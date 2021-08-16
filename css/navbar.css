@@ -1,0 +1,15 @@
+.navbar {
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .navbar .contain-1 {
+    width: 95%;
+    height: 95%;
+    display: flex;
+    align-items: center; }
+  .navbar img {
+    margin-left: 1%;
+    height: 100%;
+    width: 30%; }
