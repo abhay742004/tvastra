@@ -146,3 +146,16 @@
   }
 
 }
+
+.photo-text{
+  background-color: $imageback;
+
+  h4{
+    color: $white;
+    margin-left: 5%;
+  }
+  p{
+    color: $white;
+    margin-left: 5%;
+  }
+}

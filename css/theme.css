@@ -71,3 +71,12 @@
     background-color: #151e3b; }
   .image {
     background-color: #ffffff; } }
+
+.photo-text {
+  background-color: #00000085; }
+  .photo-text h4 {
+    color: #ffffff;
+    margin-left: 5%; }
+  .photo-text p {
+    color: #ffffff;
+    margin-left: 5%; }

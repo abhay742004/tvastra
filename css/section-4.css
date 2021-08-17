@@ -2,7 +2,8 @@
   height: 150rem;
   display: flex;
   flex-direction: column;
-  align-items: center; }
+  align-items: center;
+  justify-content: space-between; }
 
 .section4-wrapper {
   height: 5%;
@@ -10,5 +11,50 @@
   display: flex;
   text-align: center;
   justify-content: center;
+  flex-direction: column; }
+
+.section-4images {
+  height: 95%;
+  width: 100%;
+  display: flex;
+  align-items: center;
   flex-direction: column;
-  border: 1px solid yellow; }
+  justify-content: space-evenly; }
+
+.section4-photo1 {
+  height: 15%;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+  justify-content: flex-end;
+  background-repeat: round; }
+
+.first {
+  background-image: url(/asserts/image--009.jpg); }
+
+.second {
+  background-image: url(/asserts/image--010.jpg); }
+
+.third {
+  background-image: url(/asserts/image--011.jpg); }
+
+.fourth {
+  background-image: url(/asserts/image--006.jpg); }
+
+.fifth {
+  background-image: url(/asserts/image--008.jpg); }
+
+.sixth {
+  background-image: url(/asserts/image--007.jpg); }
+
+.photo-text {
+  height: 30%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column; }
+
+.first-image {
+  width: 100%;
+  height: 100%; }
