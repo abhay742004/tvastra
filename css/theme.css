@@ -80,3 +80,25 @@
   .photo-text p {
     color: #ffffff;
     margin-left: 5%; }
+
+.section-5 {
+  background-color: #d2d2d2; }
+
+.section5-card {
+  background-color: #ffffff;
+  font-family: "Nexa-Bold";
+  color: #6f6060;
+  border-radius: 20px; }
+  .section5-card img {
+    width: 80%;
+    height: 80%; }
+
+.section-6 {
+  background-color: #93bede; }
+  .section-6 h2 {
+    color: #ffffff; }
+  .section-6 button {
+    padding: 3%;
+    background-color: #0173b2;
+    color: #ffffff;
+    border: none; }

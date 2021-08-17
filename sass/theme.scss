@@ -159,3 +159,41 @@
     margin-left: 5%;
   }
 }
+
+.section-5{
+  background-color: $lightgray;
+  
+}
+
+.section5-card{
+  background-color: $white;
+
+  font-family: "Nexa-Bold";
+  color: $darkgray;
+
+  border-radius: 20px;
+img{
+
+  width: 80%;
+  height: 80%;
+
+}
+
+}
+
+.section-6{
+  background-color: $lightBlue;
+
+  h2{
+    color: $white;
+  }
+
+  button{
+    padding: 3%;
+    background-color: $lightbluebutton;
+    color: $white;
+    border: none;
+
+  }
+
+}
